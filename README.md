@@ -8,6 +8,9 @@
 | 03  | [FAQ Accordion Card](https://github.com/doganeraylin/faq-accordion-card)                            | [Webpage](https://faq-accordion-card-aylin-doganer.netlify.app/)              |
 | 04  | [Interactive Rating Component](https://github.com/doganeraylin/interactive-rating-component)                            | [Webpage](https://interactive-rating-component-aylin.netlify.app/)              |
 | 05  | [Basketball Scoreboard](https://github.com/doganeraylin/basketball-scoreboard)                            | [Webpage]( https://basketball-scoreboard-aylin.netlify.app/)              |
+| 06  | [Random Password Generator](https://github.com/doganeraylin/random-password-generator)                            | [Webpage](https://random-password-generator-aylin.netlify.app/)              |
+
+
 
 
 
